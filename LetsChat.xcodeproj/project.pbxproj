@@ -13,6 +13,9 @@
 		12380DD82744C97E00235184 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12380DD62744C97E00235184 /* Main.storyboard */; };
 		12380DDA2744C98200235184 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 12380DD92744C98200235184 /* Assets.xcassets */; };
 		12380DDD2744C98200235184 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12380DDB2744C98200235184 /* LaunchScreen.storyboard */; };
+		12380DE52744D51A00235184 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12380DE42744D51A00235184 /* RegisterViewController.swift */; };
+		12380DE72744D53300235184 /* LogInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12380DE62744D53300235184 /* LogInViewController.swift */; };
+		12380DE92744D64100235184 /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12380DE82744D64100235184 /* ChatViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		12380DD92744C98200235184 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		12380DDC2744C98200235184 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		12380DDE2744C98200235184 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		12380DE42744D51A00235184 /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
+		12380DE62744D53300235184 /* LogInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInViewController.swift; sourceTree = "<group>"; };
+		12380DE82744D64100235184 /* ChatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +65,9 @@
 				12380DD02744C97E00235184 /* AppDelegate.swift */,
 				12380DD22744C97E00235184 /* SceneDelegate.swift */,
 				12380DD42744C97E00235184 /* ViewController.swift */,
+				12380DE42744D51A00235184 /* RegisterViewController.swift */,
+				12380DE62744D53300235184 /* LogInViewController.swift */,
+				12380DE82744D64100235184 /* ChatViewController.swift */,
 				12380DD62744C97E00235184 /* Main.storyboard */,
 				12380DD92744C98200235184 /* Assets.xcassets */,
 				12380DDB2744C98200235184 /* LaunchScreen.storyboard */,
@@ -141,6 +150,9 @@
 				12380DD52744C97E00235184 /* ViewController.swift in Sources */,
 				12380DD12744C97E00235184 /* AppDelegate.swift in Sources */,
 				12380DD32744C97E00235184 /* SceneDelegate.swift in Sources */,
+				12380DE72744D53300235184 /* LogInViewController.swift in Sources */,
+				12380DE92744D64100235184 /* ChatViewController.swift in Sources */,
+				12380DE52744D51A00235184 /* RegisterViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
