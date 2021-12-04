@@ -5,5 +5,3 @@
 * Using a service called Firebase Firestore as a backend database to store and retrieve our messages from the cloud. 
 * Integrate third party libraries in your app using Cocoapods
 * Store data in the cloud using Firebase Firestore.
-* 
-* 
